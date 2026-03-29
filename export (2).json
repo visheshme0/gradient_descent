@@ -1,0 +1,8 @@
+{
+  "prompt": "A detailed 19th-century naturalist illustration of a sloping landscape resembling a botanical specimen, drawn in the style of scientific field studies from the 1800s. Small insects (such as ants or beetles) are shown at different positions along a curved terrain, gradually descending toward a central low point where many insects have gathered. The terrain resembles a natural surface like a leaf or eroded earth, subtly shaped like a basin. Fine ink linework, cross-hatching, delicate shading, muted sepia and natural tones, aged paper texture. No text, no labels, no modern elements. Composition resembles a scientific plate, with careful observational detail and balanced layout. Mood: analytical, calm, observational, precise.",
+  "model": "DALL·E 3",
+  "concept": "gradient descent",
+  "tradition_name": "19th-century naturalist illustration",
+  "tradition_period": "1800s",
+  "tradition_approach": "Used fine ink linework, cross-hatching, muted tones, and scientific plate composition to mimic naturalist illustration while mapping descent behavior through insects moving toward a basin-like minimum."
+}
